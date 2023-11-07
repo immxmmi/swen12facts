@@ -52,5 +52,3 @@ In this project, the 12-Factor Methodology has been implemented as follows:
 
 ### 10. Logs
 - Implemented: Logs are displayed in the console and can be integrated into a log management system.
-
-# swen12facts
